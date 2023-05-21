@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:tiktok/domain/entities/video_post.dart';
 
 class LocalVideoModel {
